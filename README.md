@@ -8,8 +8,6 @@ A simple backend with an error handler using typeScript and express.
 
 ## Routes
 
----
-
 - Show the error handler <br>
   `http:\\localhost:5000\api\themea` <br>
 - Shows a simple json <br>
